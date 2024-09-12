@@ -10,3 +10,5 @@ This Tableau dashboard visualizes real estate data for house sales in King Count
 **Sales Distribution**: Heatmaps to showcase where most of the sales are concentrated geographically.
 
 This project showcases my ability to create data-driven visualizations using Tableau and provides actionable insights into housing market dynamics.
+
+Link to Dashboard- https://public.tableau.com/views/KingCountyHouseSalesDashboard_17253621002890/HouseSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
