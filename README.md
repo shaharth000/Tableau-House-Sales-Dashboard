@@ -4,7 +4,9 @@ This Tableau dashboard visualizes real estate data for house sales in King Count
 
 ## Key Features:
 **Interactive Filters**: Refine data by house features like square footage, price, and location.
+
 **Price Trends**: Visual representation of how house prices vary across different regions and time periods.
+
 **Sales Distribution**: Heatmaps to showcase where most of the sales are concentrated geographically.
 
 This project showcases my ability to create data-driven visualizations using Tableau and provides actionable insights into housing market dynamics.
